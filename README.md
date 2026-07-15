@@ -53,11 +53,4 @@ If the repository includes tests, run them with pytest:
 
 Contributions are welcome. Please open an issue or submit a pull request describing your changes.
 
-## License
-
-This repository does not yet specify a license. If you'd like to add one, create a `LICENSE` file in the repository.
-
-## Contact
-
-Repository: https://github.com/divinangelo357/Python_Bookstore
 
